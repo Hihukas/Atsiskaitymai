@@ -1,0 +1,22 @@
+[ {
+  "id" : "868236ee-8be6-4a1e-a04d-4a6351221f18",
+  "userType" : "LECTOR",
+  "username" : "Lector",
+  "password" : "Lector",
+  "name" : "Lector",
+  "surname" : "Lector"
+}, {
+  "id" : "b9cd399c-59e1-4a0a-b9e1-8ca4baf4303b",
+  "userType" : "STUDENT",
+  "username" : "Student",
+  "password" : "Student",
+  "name" : "Student",
+  "surname" : "Student"
+}, {
+  "id" : "5ae1045d-1ae3-48b5-a8b2-157a2d8963b4",
+  "userType" : "STUDENT",
+  "username" : "Student2",
+  "password" : "Student2",
+  "name" : "Student2",
+  "surname" : "Student2"
+} ]

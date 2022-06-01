@@ -1,0 +1,61 @@
+[ {
+  "id" : "06081d39-5208-426f-bda8-54e0b4d3c596",
+  "examType" : "TEST",
+  "name" : "OOP",
+  "questions" : [ {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b" ],
+    "correctAnswer" : 1
+  }, {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "b", "c" ],
+    "correctAnswer" : 2
+  }, {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b", "c" ],
+    "correctAnswer" : 3
+  } ]
+}, {
+  "id" : "bf3bce7e-3ce2-466d-9813-8f0ad1ac0ce3",
+  "examType" : "TEST",
+  "name" : "OOP2",
+  "questions" : [ {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b", "c", "d" ],
+    "correctAnswer" : 4
+  }, {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b", "c", "d", "e" ],
+    "correctAnswer" : 1
+  } ]
+}, {
+  "id" : "0de8e319-3b1c-4e47-93f2-1bd1713ccf8f",
+  "examType" : "TEST",
+  "name" : "OOP3",
+  "questions" : [ {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b" ],
+    "correctAnswer" : 1
+  }, {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b", "c" ],
+    "correctAnswer" : 3
+  } ]
+}, {
+  "id" : "24df489c-d4fd-47d2-89b0-4d1d682c29ab",
+  "examType" : "TEST",
+  "name" : "OOP4",
+  "questions" : [ {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b" ],
+    "correctAnswer" : 1
+  }, {
+    "question" : "Klausimas?\nAtsakymų variantai:",
+    "answers" : [ "a", "b" ],
+    "correctAnswer" : 1
+  }, {
+    "question" : "3\nAtsakymų variantai:",
+    "answers" : [ "a", "b", "c" ],
+    "correctAnswer" : 1
+  } ]
+} ]
